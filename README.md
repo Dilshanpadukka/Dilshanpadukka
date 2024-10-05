@@ -1,5 +1,4 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQFofxZZ1D-1vg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724276841338?e=1733356800&v=beta&t=qn_7hKBbA6S1reBP7-m8Sah2Ok6rpMH7LIP5vgw5DjM)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Dilshan Padukka</h1>
 <h3 align="center">A passionate Full Stack Developer | Student </h3>
