@@ -47,6 +47,9 @@ Always eager to discuss new ideas and innovations in the field!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dilshan-padukka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilshanpadukka" height="30" width="40" /></a>
+  <a href="udayankadilshan23@gmail.com">
+    <img target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 <br>
 
