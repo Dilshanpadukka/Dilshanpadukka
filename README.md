@@ -112,5 +112,14 @@ Always eager to discuss new ideas and innovations in the field!
 
 ------
 
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Dilshanpadukka&theme=darkhub" alt="Dilshanpadukka" />
+    </a>
+</p>
+
+------
+
 Credit: [Dilshan Padukka](https://github.com/Dilshanpadukka)
-Last Edited on: 05/10/2024
+Last Edited on: 10/11/2024
