@@ -104,7 +104,9 @@ Always eager to discuss new ideas and innovations in the field!
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Dilshanpadukka&show_icons=true&theme=gotham"/>
 </p>
+<br>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Dilshanpadukka&theme=react-dark&hide_border=true&area=true)
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Dilshanpadukka&theme=gotham"/>
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
