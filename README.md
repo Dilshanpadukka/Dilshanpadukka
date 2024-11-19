@@ -1,7 +1,6 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQFofxZZ1D-1vg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724276841338?e=1733356800&v=beta&t=qn_7hKBbA6S1reBP7-m8Sah2Ok6rpMH7LIP5vgw5DjM)
-
 <h1 align="center">Hi 👋, I'm Dilshan Padukka</h1>
 <h3 align="center">A passionate Full Stack Developer | Student </h3>
+<br>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. My enthusiasm for software engineering has perpetually developed since an early age. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Dilshanpadukka&label=Profile%20views&color=0e75b6&style=flat" alt="Dilshanpadukka" /> 
