@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilshan Padukka</h1>
-<h3 align="center">A passionate Full Stack Developer | Student </h3>
+<h3 align="center">A passionate Trainee Software Engineer</h3>
 <br>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. My enthusiasm for software engineering has perpetually developed since an early age. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
 <p align="center"> 
